@@ -1,0 +1,6 @@
+fastapi
+azure-data-tables
+python-dotenv
+pydantic
+uvicorn
+bcrypt
